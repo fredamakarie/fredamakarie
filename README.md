@@ -1,11 +1,1 @@
-- 👋 Hi, I’m Omonye @fredamakarie
-- 👀 I’m interested in everything design
-- 🌱 I’m currently learning software development (front end)
-- 💞️ I’m looking to collaborate on very interesting projects on product development
-- 📫 How to reach me: ✉️omon.omonye@outlook.com
-- ⚡ Fun fact: I am also an architect and Interior designer 
-
-<!---
-fredamakarie/fredamakarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>GitHub Profile</title> <style> body { font-family: sans-serif; line-height: 1.6; color: #333; } section { margin-bottom: 2em; } h2 { color: #007bff; } a { color: #007bff; text-decoration: none; } a:hover { text-decoration: underline; } .highlight { background-color: #f8f9fa; padding: 10px; border-radius: 5px; } </style> </head> <body> <header> <h1>Your Name</h1> <p>Aspiring Product Developer | Front-End Enthusiast</p> <p>Passionate about crafting beautiful and functional user interfaces.</p> <a href="#">Your Website/Portfolio</a> </header>
