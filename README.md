@@ -1,2 +1,7 @@
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>My GitHub Profile</title> <style> body { font-family: Poppins, sans-serif; line-height: 1.6; margin: 20px; color: #333; } h1, h2 { color: #007bff; /* Blue heading color */ } section { margin-bottom: 30px; } .highlight { background-color: #f0f0f0; /* Subtle highlight for code */ padding: 10px; border-radius: 5px; } a { color: #007bff; /* Blue link color */ text-decoration: none; } a:hover { text-decoration: underline; } .project-image { max-width: 100%; height: auto; border-radius: 5px; } </style> </head> <body> <h1>Welcome to My GitHub Profile!</h1> <p>I'm a passionate and creative front-end developer currently pursuing the ALX front-end development course. My goal is to become a skilled product developer, crafting beautiful and functional user interfaces.</p>
-<section>
+- 👋 Hi, I’m Omonye @fredamakarie
+ - 👀 I’m interested in everything design
+ - 🌱 I’m currently learning software development (front end)
+ - 💞️ I’m looking to collaborate on very interesting projects 
+ - 💞️ I’m looking to collaborate on very interesting projects on product development
+ - 📫 How to reach me: ✉️omon.omonye@outlook.com
+ - ⚡ Fun fact: I am also an architect and Interior designer
