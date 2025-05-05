@@ -8,6 +8,7 @@
 ## 👨‍🎓 About Me
 
 I'm a dedicated learner currently enrolled in the <strong>ALX Software Engineering Program</strong>, specializing in **Front-End Web Development**. My passion lies at the intersection of **design** and **technology**, and I am driven by the desire to build digital experiences that are not only functional but also beautifully crafted.
+🌟 Fun Fact: I am also a trained architect and interior designer.
 
 ✨ I believe in the power of design to solve problems.  
 💡 I am inspired by creative solutions and human-centered products.  
@@ -26,3 +27,12 @@ I'm a dedicated learner currently enrolled in the <strong>ALX Software Engineeri
 🔧 Tools: Git & GitHub, Figma, Chrome DevTools, VS Code
 
 🚀 Learning Now: React Router, Redux, UI/UX Principles
+
+---
+
+<!-- Contact Section -->
+##  📢Get In Touch
+
+```html
+📧 omon.omonye@outlook.com
+📧 omonyeomonlumhen@gmail.com
