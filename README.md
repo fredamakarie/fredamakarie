@@ -28,11 +28,6 @@ I'm a dedicated learner currently enrolled in the <strong>ALX Software Engineeri
 
 🚀 Learning Now: React Router, Redux, UI/UX Principles
 
----
-
-<!-- Contact Section -->
-##  📢Get In Touch
-
-```html
+📢 Get In Touch
 📧 omon.omonye@outlook.com
 📧 omonyeomonlumhen@gmail.com
