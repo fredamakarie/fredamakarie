@@ -1,15 +1,28 @@
-#**ABOUT ME**
-- 👋 Hi, I’m Omonye @fredamakarie
-- 👀 I’m interested in everything design
+<!-- GitHub Profile Header -->
+<h1 align="center">Hi there, I'm Omonye 👋</h1>
+<h3 align="center">A Passionate Front-End Developer & Product Builder | ALX SE Learner</h3>
 
+---
 
- #**CURRENTLY EXPLORING**
-- 🌱 I’m currently learning software development (front end)
-- 💞️ I’m looking to collaborate on very interesting projects on product development
+<!-- Short About Section -->
+## 👨‍🎓 About Me
 
+I'm a dedicated learner currently enrolled in the <strong>ALX Software Engineering Program</strong>, specializing in **Front-End Web Development**. My passion lies at the intersection of **design** and **technology**, and I am driven by the desire to build digital experiences that are not only functional but also beautifully crafted.
 
-#**GET IN TOUCH**
-✉️omon.omonye@outlook.com
+✨ I believe in the power of design to solve problems.  
+💡 I am inspired by creative solutions and human-centered products.  
+🎯 My goal is to become a **Product Developer** with a strong foundation in front-end technologies.
 
+---
 
-- ⚡ Fun fact: I am also an architect and Interior designer
+<!-- Skills Section -->
+## 🛠️ Tech Stack
+
+```html
+💻 Languages: HTML5, CSS3, JavaScript (ES6+)
+
+🧰 Frameworks/Libraries: React.js, Bootstrap, Tailwind CSS
+
+🔧 Tools: Git & GitHub, Figma, Chrome DevTools, VS Code
+
+🚀 Learning Now: React Router, Redux, UI/UX Principles
