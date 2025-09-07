@@ -20,13 +20,13 @@ I'm a dedicated learner currently enrolled in the <strong>ALX Software Engineeri
 ## 🛠️ Tech Stack
 
 ```html
-💻 Languages: HTML5, CSS3, JavaScript (ES6+)
+💻 Languages: HTML5, CSS3, JavaScript (ES6+), Python
 
 🧰 Frameworks/Libraries: React.js, Bootstrap, Tailwind CSS
 
 🔧 Tools: Git & GitHub, Figma, Chrome DevTools, VS Code
 
-🚀 Learning Now: React Router, Redux, UI/UX Principles
+🚀 Learning Now: React Router, Redux, UI/UX Principles, Django
 
 📢 Get In Touch
 📧 omon.omonye@outlook.com
